@@ -30,7 +30,7 @@ body {
     display: grid;
     grid-template-columns: repeat(7, 1fr);
     gap: 5px;
-    border: 2px solid #6c757d;
+    border: 2px solid #e0e0e0;
     padding: 5px;
     border-radius: 4px;
 }
@@ -43,15 +43,15 @@ body {
 
 
 .day-header {
-    background-color: #f0f2f5;
+    background-color: #ffffff;
     font-weight: bold;
     text-align: center;
-    border: 2px solid #a0a8b0;
+    border: 2px solid #e0e0e0;
 }
 
 
 .day-cell {
-    border: 2px solid #a0a8b0;
+    border: 2px solid #e0e0e0;
     text-align: center;
 }
 
